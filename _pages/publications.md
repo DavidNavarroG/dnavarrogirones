@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+Full record on [NASA ADS](https://ui.adsabs.harvard.edu/user/libraries/HUPbwzBOTpmBt1nTea6Mmg){:target="_blank" rel="noopener"}.
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}

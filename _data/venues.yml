@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"A&A":
+  url: https://www.aanda.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"MNRAS":
+  url: https://academic.oup.com/mnras
+  color: "#2b6a99"
 
-"Vision":
-  color: "#009f36"
+"ApP":
+  url: https://www.sciencedirect.com/journal/astroparticle-physics
+  color: "#6b4c9a"
+
+"JOSS":
+  url: https://joss.theoj.org/
+  color: "#a0522d"

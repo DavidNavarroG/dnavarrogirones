@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: true
-nav_order: 6
-calendar: true
+description: Teaching and student supervision.
+nav: false
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<!-- Fill in the sections below with your own courses and supervision. -->
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Teaching
 
-{% include courses.liquid %}
+- **Course name**, _Institution_, year. Role (e.g. teaching assistant, lecturer).
+
+## Supervision
+
+- **Student name**, _MSc Astronomy, Leiden University_, year. Project title.
