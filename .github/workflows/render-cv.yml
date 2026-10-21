@@ -1,14 +1,8 @@
 name: Render a CV
+# Disabled on push: the site renders _data/cv.yml directly and uses a hand-made CV PDF.
+# RenderCV's validator rejects the fields the site layout needs (label, image, summary).
+# Run it manually from the Actions tab if you ever want a generated PDF.
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
   workflow_call:
   workflow_dispatch:
 permissions:
