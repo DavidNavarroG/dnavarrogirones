@@ -23,21 +23,21 @@ cv:
         highlights:
           - "**Thesis:** A study of photometric redshifts and intrinsic alignments with PAUS and Euclid"
           - "**Supervisors:** Dr. Martin Crocce and Dr. Enrique Gaztañaga"
-    
+
       - institution: University of Barcelona (UB)
         location: Barcelona, Spain
         area: Astrophysics and Cosmology
         studyType: MSc
         start_date: 2018-09
         end_date: 2019-09
-    
+
       - institution: Autonomous University of Barcelona (UAB)
         location: Barcelona, Spain
         area: Physics
         studyType: BSc
         start_date: 2013-09
         end_date: 2018-09
-    
+
       - institution: Autonomous University of Barcelona (UAB)
         location: Barcelona, Spain
         area: Chemistry
@@ -53,4 +53,3 @@ cv:
         end_date: present
         highlights:
           - Galaxy intrinsic alignments in Euclid and in simulations.
-
